@@ -1,2 +1,3 @@
-# Reddit-Image-Scrape
-Scrapping images from subreddits (reddit) using selenium and bs4
+# Reddit-Image-Scraping
+
+Scraping images from one of my favourite subreddit [r/Fairytail_Hentai](https://www.reddit.com/r/Fairytail_hentai/) using selenium and beautifulsoup4.
