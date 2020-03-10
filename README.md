@@ -12,6 +12,7 @@ Scraping images from one of my favourite subreddit [r/Fairytail_Hentai](https://
 ```
 > pip install beautifulsoup4
 ```
+* python version above 3.6
 
 ## Working
 In this project/code I've used this specific [subreddit](https://www.reddit.com/r/Fairytail_hentai/), but this code can be used on any other subreddit similarly. __no login required__. 
